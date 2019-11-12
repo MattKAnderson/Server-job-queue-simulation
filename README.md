@@ -1,6 +1,6 @@
 # Server-job-queue-simulation
 ### Brief intro
-A simulation of the number of jobs queued in an N-server system. Used to compare two methods of job queuing: a single shared queue and a private queue for each server in the system. Written in Fall 2019 as part of an Assignment for Computer Science 4E03 at McMaster university.
+A simulation of the number of jobs queued in an N-server system. Used to compare two methods of job queuing: a single shared queue and a private queue for each server in the system. Written in C++ using vim in WSL Fall 2019 as part of an Assignment for Computer Science 4E03 at McMaster university.
 
 ### What this project demonstrates
 This small project is a brief demonstration of object-oriented programming, familiarity with the standard library, use of parallelization, and applying theory into practice. 
