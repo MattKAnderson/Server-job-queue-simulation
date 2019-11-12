@@ -10,7 +10,5 @@ simulation : $(OBJS) $(DEPS)
 %.o : %.cpp $(DEPS)
 	$(CXX) $(CXXFLAGS) -c $< -o $@ 
 
-.PHONY: clean
-
 clean: 
 	rm -f *.o    
